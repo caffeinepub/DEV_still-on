@@ -1,0 +1,19 @@
+{
+  "overview": "A minimal full-viewport landing page that declares \"Still On.\" with an interactive light bulb that toggles both its own on/off state and the page's light/dark theme. A quiet tagline sits in the bottom-right corner.",
+  "features": [
+    "Interactive light bulb that toggles on/off visually",
+    "Light/dark theme switch tied to bulb state",
+    "Full-viewport layout with no scrolling",
+    "Footer tagline: When the rest of the web is down. Built with Caffeine. Powered by ICP.",
+    "Smooth theme transitions"
+  ],
+  "category": "showcase",
+  "tags": [
+    "landing-page",
+    "minimal",
+    "dark-mode",
+    "interactive",
+    "theme-toggle"
+  ],
+  "last_updated": "2026-04-03T19:25:28.275Z"
+}
