@@ -60,6 +60,15 @@ export default function App() {
               target="_blank"
               rel="noopener noreferrer"
               className="underline underline-offset-2 hover:opacity-100 transition-smooth"
+              style={
+                !isOn
+                  ? {
+                      color: "#DCFF1E",
+                      textDecoration: "underline",
+                      textDecorationColor: "#DCFF1E",
+                    }
+                  : undefined
+              }
             >
               caffeine
             </a>
@@ -69,6 +78,15 @@ export default function App() {
               target="_blank"
               rel="noopener noreferrer"
               className="underline underline-offset-2 hover:opacity-100 transition-smooth"
+              style={
+                !isOn
+                  ? {
+                      color: "#29ABE2",
+                      textDecoration: "underline",
+                      textDecorationColor: "#29ABE2",
+                    }
+                  : undefined
+              }
             >
               ICP
             </a>
